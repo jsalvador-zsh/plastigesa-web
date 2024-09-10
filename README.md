@@ -40,24 +40,6 @@ El proyecto está organizado de la siguiente manera:
 └── package.json
 ```
 
-## 🚀 Estructura del Proyecto
-
-El proyecto está organizado de la siguiente manera:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
 Los archivos `.astro` o `.md` en `src/pages/` son las rutas de las páginas.
 
 Los componentes se encuentran en `src/components/`, donde usamos Astro junto Tailwind.
